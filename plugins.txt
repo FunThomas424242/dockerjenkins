@@ -42,7 +42,7 @@ jquery-detached:1.2.1
 workflow-scm-step:2.7
 durable-task:1.29
 workflow-support:3.3
-workflow-cps:2.68
+workflow-cps:2.69
 workflow-job:2.32
 workflow-multibranch:2.21
 blueocean-pipeline-scm-api:1.16.0
@@ -103,7 +103,7 @@ parameterized-trigger:2.35.2
 pipeline-rest-api:2.11
 http_request:1.8.22
 handlebars:1.1.1
-pipeline-maven:3.6.14
+pipeline-maven:3.7.0
 momentjs:1.1.1
 pipeline-stage-view:2.11
 workflow-aggregator:2.6
